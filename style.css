@@ -1,0 +1,14 @@
+h3{
+    color: blue;
+    padding-left: 15%;
+}
+.hyperlinks{
+    border: solid;
+    color: cyan;
+    display: flex;
+    justify-content:space-between ;
+}
+
+a:visited{
+    color: springgreen;
+}
